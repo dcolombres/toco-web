@@ -13,7 +13,7 @@ export default function Home() {
             Comprar un TOCO
           </button>
           <button className="bg-transparent hover:bg-gray-200 text-black font-semibold py-3 px-8 rounded-full text-lg transition duration-300 ease-in-out transform hover:scale-105 border border-gray-400">
-            Unite al Movimiento
+            Podés ser parte
           </button>
         </div>
       </div>

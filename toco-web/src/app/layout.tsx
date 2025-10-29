@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "TOCO Madera",
-  description: "Tocar madera ahora es buena suerte",
+  description: "TOCO madera trae buena suerte",
   icons: {
     icon: "/TOCO_logo.jpg",
   },
