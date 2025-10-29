@@ -3,7 +3,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-center min-h-screen text-black text-center p-24">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-6">
-          Tocar Madera, ahora es Suerte.
+          Tocar Madera, ahora trae Suerte.
         </h1>
         <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-12 text-gray-600">
           TOCO es más que un cubo de madera. Es un símbolo de regeneración y compromiso con el planeta. Descubrí cómo un simple gesto puede atraer la buena suerte y ayudar a reforestar nuestros bosques.
