@@ -1,14 +1,14 @@
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen text-black text-center p-24">
+    <main className="flex flex-col items-center justify-center min-h-screen text-black text-center p-32">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-6">
+        <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-8">
           Tocar Madera, ahora trae Suerte.
         </h1>
-        <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-12 text-gray-600">
+        <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-16 text-gray-600">
           TOCO es más que un cubo de madera. Es un símbolo de regeneración y compromiso con el planeta. Descubrí cómo un simple gesto puede atraer la buena suerte y ayudar a reforestar nuestros bosques.
         </p>
-        <div className="flex justify-center space-x-6">
+        <div className="flex justify-center space-x-8">
           <button className="bg-black hover:bg-gray-800 text-white font-semibold py-3 px-8 rounded-full text-lg transition duration-300 ease-in-out transform hover:scale-105">
             Comprar un TOCO
           </button>
